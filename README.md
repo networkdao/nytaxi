@@ -1,5 +1,5 @@
 # 纽约出租车行程数据分析
-
+![Image text](https://github.com/networkdao/nytaxi/blob/master/image/nytaxi1.png)
 ## 分析的目的
 1. 通过分析发现工作时间最长的司机们 
 2. 司机行驶的里程数，行驶时间（判断是否疲劳驾驶）  
