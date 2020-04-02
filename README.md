@@ -1,4 +1,4 @@
-# 纽约租出车行程数据分析
+# 纽约出租车行程数据分析
 
 ## 分析的目的
 1. 通过分析发现工作时间最长的司机们 
@@ -15,5 +15,13 @@ https://www1.nyc.gov/site/tlc/about/data-and-research.page
 1. 单个原始文件>2GB， 单个文件超过1400W 行；
 总共12个文件.
 
+## 使用的大数据平台或框架
+- Spark
+- HDFS
+- Hive
+- ElastiSearch
+- Kibana
+- Azkaban
+...
 
 
