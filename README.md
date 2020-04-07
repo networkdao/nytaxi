@@ -19,7 +19,7 @@ https://www1.nyc.gov/site/tlc/about/data-and-research.page
 - Spark
 - HDFS
 - Hive
-- ElastiSearch
+- ElasticSearch
 - Kibana
 - Azkaban
 ...
