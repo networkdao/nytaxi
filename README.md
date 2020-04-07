@@ -16,9 +16,9 @@ https://www1.nyc.gov/site/tlc/about/data-and-research.page
 总共12个文件。
 
 ## 代码部分
-job1totaltimeTop20.py--   2013年1月累计载客时间Top20 的司机  
-job2_1_201301status.py -- 2013年1月司机的该工作状态（根据工作时间定义的工作状态）  
-job2_2_201301statusnopw.py -- 2013年1月司机中工作状态的具体信息写入到Mysql 数据库，方便查询  
+job1totaltimeTop20.py      -- 2013年1月累计载客时间Top20 的司机  
+job2_1_201301status.py     -- 2013年1月司机的工作状态（根据工作时间定义的工作状态）  
+job2_2_201301statusnopw.py -- 2013年1月司机中工作状态所对应的具体信息写入到Mysql 数据库，方便查询  
 
 ## 使用的大数据平台或框架
 - Spark
